@@ -1,12 +1,12 @@
 {
-    "name": "ZUSYCO-MD",
-    "description": "This is an ZUSYCO-MD whatsapp bot created by mr nima.",
-    "repository": "https://github.com/DarkMakerofc/ZUSYCO-MD",
-    "logo": "https://telegra.ph/file/a3cb3587e86dd31a0bc3d.jpg",
+    "name": "BIGI",
+    "description": "Hello Bro.",
+    "repository": "https://www.youtube.com/@BiGivideo/videos",
+    "logo": "https://github.com/GayaGihana/GayaGihana/blob/main/a3cb3587e86dd31a0bc3d.jpg",
     "keywords": [
         "nodejs",
         "Bot",
-        "WhatsApp ZUSYCO-MD Bot"
+        "WhatsApp Gihaa Bot"
     ],
     "buildpacks": [
         {
