@@ -10,15 +10,15 @@
 
 
 
-Project Name : ZUSYCO - MD
+Project Name : BIGI
 Creator : @darkmakerofc , @mr-nima-x 
 
 */
 
 module.exports = {
-  OWNER_NUMBER: "94715166712",
-  SUDO_NUMBERS : "94715166712,94719574492",
-  OWNER_NAME: "『 𝙼𝚁 𝙽𝙸 』",
+  OWNER_NUMBER: "94768096838",
+  SUDO_NUMBERS : "94768096838",
+  OWNER_NAME: "『 BI GI 』",
   BOT_NAME : "ＳＹＣＯ",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
@@ -35,7 +35,7 @@ module.exports = {
   WORK_TYPE : "public",
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
-  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ GIHAA ᴍᴅ ʙᴏᴛ',
+  CAPTION : 'GIHAA ᴍᴅ BOT',
   STICKER_PACK : '[ ZUSYCO ]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
@@ -55,7 +55,7 @@ module.exports = {
   BOT_OFFLINE : false,
   INBOX_BLOCK : false,
   AUTO_REACT : true,
-  OWNER_REACT : '😁',
+  OWNER_REACT : '👍',
   AUTO_BGM : true,
   BGM : {
     "chaio" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-caio.mp3",
