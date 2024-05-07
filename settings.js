@@ -58,11 +58,17 @@ module.exports = {
   OWNER_REACT : '👍',
   AUTO_BGM : true,
   BGM : {
-    "amaru" : "https://github.com/GayaGihana/GayaGihana/blob/main/Meme%20%233%20_%20Amayage%20Prathamadara.m4a",
-    "pada" : "https://youtu.be/2Yp95Q3ZdHk?si=FgDbM_8B7F8bv2yO",
-    "udata" : "https://github.com/GayaGihana/GayaGihana/blob/main/kotuwe%20podi%20hamuduruwo%20meme%20__%20%E0%B6%9A%E0%B7%9C%E0%B6%A7%E0%B7%94%E0%B7%80%E0%B7%9A%20%E0%B6%B4%E0%B7%9C%E0%B6%A9%E0%B7%92%20%E0%B7%84%E0%B7%8F%E0%B6%B8%E0%B7%94%E0%B6%AF%E0%B7%94%E0%B6%BB%E0%B7%94%E0%B7%80%E0%B7%9D%20%E0%B6%B6%E0%B7%84%E0%B7%92%E0%B6%B1%E0%B7%80%20%E0%B6%B4%E0%B6%BD%E0%B7%8A%E0%B6%BD%E0%B7%99%E0%B7%84%E0%B7%8F%E0%B6%A7.m4a",
-    "barayi" : "https://github.com/GayaGihana/GayaGihana/blob/main/%E0%B6%9A%E0%B7%9C%E0%B6%A7%E0%B7%94%E0%B7%80%E0%B7%9A%20%E0%B7%84%E0%B7%8F%E0%B6%B8%E0%B7%94%E0%B6%AF%E0%B7%94%E0%B6%BB%E0%B7%94%E0%B7%80%E0%B7%9D%20%E0%B6%B4%E0%B7%8F%E0%B7%83%E0%B6%BD%E0%B7%8A%20%E0%B6%9A%E0%B7%8F%E0%B6%BD%E0%B6%BA%20%E0%B6%B8%E0%B6%AD%E0%B6%9A%E0%B7%8A%20%E0%B6%9A%E0%B6%BB%E0%B6%BA%E0%B7%92%20%F0%9F%98%85%20_%20Kotuwe%20Hamuduruwo%20_%20%23shorts.m4a",
-    "bidi" : "https://github.com/GayaGihana/GayaGihana/blob/main/soora%20pappa%20joke%20_%20Whatsapp%20status%20_%20Short%20videos%20_%20sinhala%20_%20tik%20tok%20_%20spesial.m4a",
+    "Good morning" : "https://github.com/GayaGihana/GayaGihana/blob/main/Mosquito%20at%20night.mp3"
+    "vesa" : "https://github.com/GayaGihana/GayaGihana/blob/main/Yowai%20Mo.mp3"
+    "ponya" : "https://github.com/GayaGihana/GayaGihana/blob/main/Yowai%20Mo.mp3"
+    "kariya" : "https://github.com/GayaGihana/GayaGihana/blob/main/Yowai%20Mo.mp3"
+    "modaya" : "https://github.com/GayaGihana/GayaGihana/blob/main/Yowai%20Mo.mp3"
+    "hutto" : "https://github.com/GayaGihana/GayaGihana/blob/main/Chandrapala.mp3"
+    "amaru" : "https://github.com/GayaGihana/GayaGihana/blob/main/Meme%20%233%20_%20Amayage%20Prathamadara.mp3",
+    "pada" : "https://github.com/GayaGihana/GayaGihana/blob/main/pada.mp3",
+    "udata" : "https://github.com/GayaGihana/GayaGihana/blob/main/kotuwe%20podi%20hamuduruwo%20meme%20__%20%E0%B6%9A%E0%B7%9C%E0%B6%A7%E0%B7%94%E0%B7%80%E0%B7%9A%20%E0%B6%B4%E0%B7%9C%E0%B6%A9%E0%B7%92%20%E0%B7%84%E0%B7%8F%E0%B6%B8%E0%B7%94%E0%B6%AF%E0%B7%94%E0%B6%BB%E0%B7%94%E0%B7%80%E0%B7%9D%20%E0%B6%B6%E0%B7%84%E0%B7%92%E0%B6%B1%E0%B7%80%20%E0%B6%B4%E0%B6%BD%E0%B7%8A%E0%B6%BD%E0%B7%99%E0%B7%84%E0%B7%8F%E0%B6%A7.mp3",
+    "barayi" : "https://github.com/GayaGihana/GayaGihana/blob/main/%E0%B6%9A%E0%B7%9C%E0%B6%A7%E0%B7%94%E0%B7%80%E0%B7%9A%20%E0%B7%84%E0%B7%8F%E0%B6%B8%E0%B7%94%E0%B6%AF%E0%B7%94%E0%B6%BB%E0%B7%94%E0%B7%80%E0%B7%9D%20%E0%B6%B4%E0%B7%8F%E0%B7%83%E0%B6%BD%E0%B7%8A%20%E0%B6%9A%E0%B7%8F%E0%B6%BD%E0%B6%BA%20%E0%B6%B8%E0%B6%AD%E0%B6%9A%E0%B7%8A%20%E0%B6%9A%E0%B6%BB%E0%B6%BA%E0%B7%92%20%F0%9F%98%85%20_%20Kotuwe%20Hamuduruwo%20_%20%23shorts.mp3",
+    "bidi" : "https://github.com/GayaGihana/GayaGihana/blob/main/soora%20pappa%20joke%20_%20Whatsapp%20status%20_%20Short%20videos%20_%20sinhala%20_%20tik%20tok%20_%20spesial.mp3",
     "hutto" : "https://github.com/GayaGihana/GayaGihana/blob/main/amme%20mata%20ba.mp3",
     "chaio" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-caio.mp3",
     "leo" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-leo.mp3",
