@@ -1,4 +1,4 @@
-<div align="center" class= "main"> 
+npm start<div align="center" class= "main"> 
   <img src="https://telegra.ph/file/a3cb3587e86dd31a0bc3d.jpg" width="300" height="300"/>
   <h1>ＺＵＳＹＣＯ - ＭＤ</h1>
 
